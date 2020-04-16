@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fde17329-2738-40b6-b189-58df6bc1af23" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aW7e1cWVLZ7fzFLp0tJmVsMHyQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReplState" timestamp="1587031966532">{:repl-history {:ide [], :local [{:command &quot;(factorial 2)&quot;, :offset 12, :ns &quot;factorial.core&quot;} {:command &quot;(factorial 3)&quot;, :offset 12, :ns &quot;factorial.core&quot;} {:command &quot;(factorial 4)&quot;, :offset 12, :ns &quot;factorial.core&quot;} {:command &quot;(factorial 5)&quot;, :offset 12, :ns &quot;factorial.core&quot;} {:command &quot;4&quot;, :offset 1, :ns &quot;factorial.core&quot;} {:command &quot;1&quot;, :offset 1, :ns &quot;factorial.core&quot;} {:command &quot;parse \&quot;10\&quot;&quot;, :offset 9, :ns &quot;factorial.core&quot;} {:command &quot;(parse 10)&quot;, :offset 9, :ns &quot;factorial.core&quot;} {:command &quot;(parse \&quot;10\&quot;)&quot;, :offset 10, :ns &quot;factorial.core&quot;} {:command &quot;(-main)&quot;, :offset 7, :ns &quot;factorial.core&quot;}], :remote []}}</component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <module name="factorial" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fde17329-2738-40b6-b189-58df6bc1af23" name="Default Changelist" comment="" />
+      <created>1586839587731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586839587731</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1284" y="283" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586839619141">
+      <screen x="0" y="22" width="2560" height="1340" />
+    </state>
+    <state x="1284" y="283" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.22.2560.1340@0.22.2560.1340" timestamp="1586839619141" />
+  </component>
+</project>
